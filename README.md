@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Shivam Singh Chandel Banner"/>
+<img src="./banner.png" width="100%" alt="Shivam Singh Chandel Banner"/>
 
 # Hey 👋 I'm Shivam Singh Chandel
 
