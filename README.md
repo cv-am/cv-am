@@ -1,108 +1,103 @@
 <div align="center">
 
-# 👋 Hi, I'm Shivam Singh Chandel
+<img src="./assets/banner.png" width="100%" alt="Shivam Singh Chandel Banner"/>
 
-### Full Stack Developer • BCA Student • India
+# Hey 👋 I'm Shivam Singh Chandel
 
-<p>
-I'm passionate about building modern, responsive web applications and continuously improving my skills through real-world projects.
-</p>
+### Full Stack Developer • BCA Student • Building Modern Web Applications
 
 <p>
 <a href="https://github.com/cv-am">
-<img src="https://komarev.com/ghpvc/?username=cv-am&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=cv-am&style=for-the-badge&color=0ea5e9"/>
+</a>
+
+<a href="https://github.com/cv-am?tab=followers">
+<img src="https://img.shields.io/github/followers/cv-am?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+%7C+PHP+%7C+MySQL;Building+Real+World+Projects;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=700&color=38BDF8&lines=Full+Stack+Developer;Building+Real+World+Projects;JavaScript+•+PHP+•+MySQL;Learning+Something+New+Every+Day"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-- 🎓 BCA Student
-- 💻 Aspiring Full Stack Developer
-- 🌱 Currently learning advanced JavaScript, PHP & MySQL
-- 🎯 Focused on building production-ready web applications
-- ⚡ I enjoy transforming ideas into clean, responsive websites
+I'm **Shivam Singh Chandel**, a BCA student passionate about building modern, responsive, and user-friendly web applications.
+
+I enjoy turning ideas into real projects, improving my problem-solving skills, and learning technologies that help me become a better developer every day.
+
+Currently I'm focused on creating projects that strengthen both my frontend and backend development skills.
+
+---
+
+## 🚀 Current Focus
+
+* 🤝 Building **SkillSwap**
+* 🌐 Improving my Developer Portfolio
+* ⚙️ Learning Backend Development with PHP & MySQL
+* 📚 Mastering JavaScript
+* 🌱 Writing cleaner and more scalable code
 
 ---
 
 # 🛠 Tech Stack
 
+<div align="center">
+
 ### Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/>
-</p>
 
-### Tools & Technologies
+### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
-</p>
+
+</div>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🌐 Developer Portfolio
-A modern personal portfolio showcasing my projects, skills, and journey.
-
-### 🤝 SkillSwap
-A skill-sharing platform where users can learn, teach, and collaborate.
-
-### 📚 JavaScript Learning
-Practice repository covering JavaScript fundamentals to advanced concepts.
-
-### 🗄 MySQL Practice
-Database design, normalization, joins, stored queries, and SQL practice.
+| Project                   | Description                                                              |
+| ------------------------- | ------------------------------------------------------------------------ |
+| 🌐 **Portfolio**          | A modern responsive portfolio showcasing my work and developer journey.  |
+| 🤝 **SkillSwap**          | A platform where users can share, learn, and collaborate through skills. |
+| 📚 **JavaScript Journey** | My learning repository covering JavaScript concepts and mini projects.   |
+| 🗄️ **MySQL Practice**    | SQL queries, joins, normalization, and database exercises.               |
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cv-am&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cv-am&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=cv-am&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=cv-am&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cv-am&theme=tokyo-night&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cv-am&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
-</p>
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="https://github.com/cv-am">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -120,25 +115,33 @@ Database design, normalization, joins, stored queries, and SQL practice.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</p>
+</div>
 
-- 📧 **Email:** shivamsinghchandel.work@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/cvam2006
-- 🐦 **X (Twitter):** https://x.com/cvam2006
-- 🌍 **GitHub:** https://github.com/cv-am
+<div align="center">
 
----
+🌐 **Portfolio**
+https://cvam-v2.vercel.app/
 
-# 💭 Developer Mindset
+📧 **Email**
+[shivamsinghchandel.work@gmail.com](mailto:shivamsinghchandel.work@gmail.com)
 
-> *"Consistency compounds. Every commit is one step closer to mastery."*
+💼 **LinkedIn**
+https://linkedin.com/in/cvam2006
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+## 💭 Philosophy
 
-If you like my work, consider checking out my repositories and leaving a ⭐.
+> **"Every project is an opportunity to learn, improve, and build something meaningful."**
+
+Thank you for visiting my profile.
+
+⭐ If you like my work, feel free to explore my repositories and leave a star.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,100:38BDF8&height=120&section=footer"/>
 
 </div>
